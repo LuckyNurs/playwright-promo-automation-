@@ -1,0 +1,14 @@
+{
+  "name": "playwright-promo-automation",
+  "version": "1.0.0",
+  "description": "Safe, example Playwright script for creating promo items.",
+  "main": "scripts/createPromos.js",
+  "scripts": {
+    "start": "node scripts/createPromos.js",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "playwright": "^1.35.0"
+  }
+}
