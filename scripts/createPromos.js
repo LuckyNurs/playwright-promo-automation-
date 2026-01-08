@@ -73,5 +73,5 @@ const { chromium } = require('playwright');
   }
 
   await browser.close();
-  console.log('\n✅ All promos processed successfully!');
+  console.log('\n All promos processed successfully!');
 })();
